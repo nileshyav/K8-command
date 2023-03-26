@@ -1,10 +1,10 @@
 ---
-title: "Docker basic command"
+title: "Top Docker Commands You Should Know in 2023"
 seoTitle: "Top Essential Docker Commands You Should Know in 2023."
 seoDescription: "Essential Docker Commands You Should Know in 2022"
 datePublished: Sun Mar 26 2023 04:53:52 GMT+0000 (Coordinated Universal Time)
 cuid: clfoxdmv9000109id6w6h2ynq
-slug: docker-basic-command
+slug: top-docker-commands-you-should-know-in-2023
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679806069558/37c37d4b-ffbc-4608-97da-f13088aea691.png
 tags: docker, devops, docker-command
 
